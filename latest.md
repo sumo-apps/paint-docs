@@ -1,5 +1,4 @@
-### Version 22.12.11
+### Version 23.1.0
 
-- Vector Path tool
 - Tweaks and fixes
 - What's new modal ;)
