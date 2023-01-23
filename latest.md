@@ -6,5 +6,6 @@
 - Imagination slider in "Reimagine" mode controls how much prompt is used against the input image. 0% means image wouldn't be modified at all and 100% would be same as using "Create" mode.
 
 **Other**
+- Deleted layers are archived and can be restored
 - Tweaks and fixes
 - What's new modal ;)
