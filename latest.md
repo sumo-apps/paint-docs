@@ -1,4 +1,4 @@
-### Version 23.1.0
+### Version 23.2.0
 
 **AI panel update**
 - Prompt Strength slider in both modes is affecting the power of the text prompt.
