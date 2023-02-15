@@ -1,11 +1,13 @@
-### Version 23.2.0
+### Version 23.2.5
 
-**AI panel update**
-- Prompt Strength slider in both modes is affecting the power of the text prompt.
-- When "Magic Prompt" is turned on your text prompt will be automatically improved with added words in order to produce better images.
-- Imagination slider in "Reimagine" mode controls how much prompt is used against the input image. 0% means image wouldn't be modified at all and 100% would be same as using "Create" mode.
+Release Date: 20th of February 2023
+
+**Text Tool Update**
+- We have updated our text tool into fully vector based WebAssembly solution 
+- Text feature is now faster and more robust solution
+- We had to sacrifice text outline (for now) and remove in-place editing (due to upcoming 3D features)
+- Improved custom font support (for Pro users)
 
 **Other**
-- Deleted layers are archived and can be restored
-- Tweaks and fixes
-- What's new modal ;)
+- Crop tool supports square aspect ratio locking
+- Tweaks and bug fixes
