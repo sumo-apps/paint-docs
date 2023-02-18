@@ -1,6 +1,6 @@
-### Version 23.2.5
+### Version 23.2.6
 
-Release Date: 20th of February 2023
+Release Date: Week 8 / 2023
 
 **Text Tool Update**
 - We have updated our text tool into fully vector based WebAssembly solution 
