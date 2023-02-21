@@ -1,4 +1,4 @@
-### Version 23.2.6
+### Version 23.2.7
 
 Release Date: Week 8 / 2023
 
@@ -9,5 +9,6 @@ Release Date: Week 8 / 2023
 - Improved custom font support (for Pro users)
 
 **Other**
+- Move tool improvements
 - Crop tool supports square aspect ratio locking
-- Tweaks and bug fixes
+- Bug fixes
