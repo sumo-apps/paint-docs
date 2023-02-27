@@ -1,6 +1,6 @@
-### Version 23.2.7
+### Version 23.2.9
 
-Release Date: Week 8 / 2023
+28.2.2023
 
 **Text Tool Update**
 - We have updated our text tool into fully vector based WebAssembly solution 
@@ -11,4 +11,5 @@ Release Date: Week 8 / 2023
 **Other**
 - Move tool improvements
 - Crop tool supports square aspect ratio locking
-- Bug fixes
+- Full Screen mode
+- Bug fixes and tweaks
