@@ -1,6 +1,13 @@
+### Version 23.2.10
+
+8. Apr 2023
+
+- Bug fixes related to caching
+- Fix console errors
+
 ### Version 23.2.9
 
-28.2.2023
+28. Feb 2023
 
 **Text Tool Update**
 - We have updated our text tool into fully vector based WebAssembly solution 
