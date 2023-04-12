@@ -1,3 +1,10 @@
+### Version 23.2.11
+
+12. Apr 2023
+
+- Fix pattern brush
+- Other small bug fixes
+
 ### Version 23.2.10
 
 8. Apr 2023
